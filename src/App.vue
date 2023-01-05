@@ -23,10 +23,17 @@ import TheWelcome from "./components/TheWelcome.vue";
       <tbody>
         <tr>
           <td>69</td>
+          <td>Petr</td>
           <td>Pavel</td>
-          <td>Marek</td>
           <td>1.A</td>
           <td>6.9.1969</td>
+        </tr>
+        <tr>
+          <td>70</td>
+          <td>Marek</td>
+          <td>Najitý</td>
+          <td>2.B</td>
+          <td>5.4.1999</td>
         </tr>
 
       </tbody>
